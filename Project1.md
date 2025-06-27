@@ -4,7 +4,10 @@
 Canopy (a fictional business) wants to offer the best-rated French movies and create movies that are not offered by other streaming services.
 
 ### Objectives
-- Determine the top 20 best-rated movies offered by genre and age group.
+Their objectives are to:
+1. Offer curated selections of best rated French-language movies from the existing content,
+2. Provide French-language movies to various age groups,
+3. Identify the least tapped genres to provide the filmmakers with data to make original content for Canopy.
 
 ## Data Source
 ![image](https://github.com/user-attachments/assets/5bc295b4-9184-476b-9eef-768e6ce82ba4)
