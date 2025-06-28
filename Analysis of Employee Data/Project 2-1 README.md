@@ -97,4 +97,7 @@ The People and Culture team collected employee satisfaction data using the Organ
 - **Improve Surveys:**
   - Use a 1–5 Likert scale and increase sample size for more reliable insights.
 
+## Full Report
+For a detailed explanation of this project, you can read the complete report here:  
+[Project 2-1 Report (PDF)](https://github.com/DimitraPetroulias/DimiP_UniPortfolio/blob/aca96a411dd8b0bf29e73b3f2dae7d60d837b887/Analysis%20of%20Employee%20Data/Project%202-1%20Report.pdf)
 
