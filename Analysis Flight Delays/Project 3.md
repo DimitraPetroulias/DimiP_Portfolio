@@ -73,11 +73,23 @@ This project analyses historical flight delay data to uncover delay patterns by 
 
 ## Results
 - **Top Delay Causes:** Late-aircraft and airline delays were the largest contributors to arrival delays.
+- ![image](https://github.com/user-attachments/assets/c668709e-4c02-4b7a-a179-7eab946f0252)
+
 - **Airline Performance:** American Eagle and Hawaiian Airlines had the highest average delays despite operating fewer flights; Southwest and SkyWest had the lowest average delays.
+- ![image](https://github.com/user-attachments/assets/89ccea0e-5ebc-4e73-ae7b-e4018ab5c986)
+- the more flights an airline had the greater the arrival delay
+- ![image](https://github.com/user-attachments/assets/3d99fe02-7cbc-4046-91c7-0994f54c636c)
+- the busier the airport the more delays
+
 - **Temporal Patterns:**
   - Peak delays occurred between 12 pm–6 pm.
+  - ![image](https://github.com/user-attachments/assets/d95bd8c6-cf8b-40eb-96fc-bb8770d410b4)
+
   - Delays were most common on Thursdays, Fridays, and Sundays.
+  - ![image](https://github.com/user-attachments/assets/39f790fd-7525-4e6c-ad84-ad8b0ed55674)
+
 - **Geographic Patterns:** New York and Hawaii reported the highest average delays per flight.
+- ![image](https://github.com/user-attachments/assets/bdca4ac0-e5b0-475f-9ef2-cd3cd9299ba3)
 
 ## Recommendations
 - **Operational Improvements:**
