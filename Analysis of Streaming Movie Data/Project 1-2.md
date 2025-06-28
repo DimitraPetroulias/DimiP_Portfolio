@@ -1,4 +1,4 @@
-# Analysis of Streaming Movie Data V2
+# Analysis of Streaming Movie Data Part 2
 
 ## Overall Business Goal
 Canopy (a fictional business) wants to offer the best-rated French movies and create movies that are not offered by other streaming services.
