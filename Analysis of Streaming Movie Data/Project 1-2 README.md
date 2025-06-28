@@ -83,3 +83,6 @@ Insights into less tapped genres and the relationship between runtime and IMDb r
 
 The decline in French movie production suggests that Canopy should consider producing more French films to maintain a consistent content flow. Furthermore, Canopy can leverage the scarcity of new French films to position itself as a unique platform that not only curates the best existing content but also supports the creation of new, high-quality French-language movies.
  
+## Full Report
+For a detailed explanation of this project, you can read the complete report here:  
+[Project 1-2 Report (PDF)](https://github.com/DimitraPetroulias/DimiP_UniPortfolio/blob/0fa62e7c87992bf44f0f8b913efaa7a51c16bdfb/Analysis%20of%20Streaming%20Movie%20Data/Project%201-2%20Report.pdf)
