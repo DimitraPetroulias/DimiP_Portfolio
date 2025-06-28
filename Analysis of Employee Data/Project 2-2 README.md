@@ -63,3 +63,6 @@ Variables include:
 - Maintain retention strategies for senior employees.
 - Continue collecting feedback to monitor satisfaction over time.
 
+## Full Report
+For a detailed explanation of this project, you can read the complete report here:  
+[Project 2-2 Report (PDF)](https://github.com/DimitraPetroulias/DimiP_UniPortfolio/blob/f87194948a5746da0978ec546392d404b094c4e9/Analysis%20of%20Employee%20Data/Project%202-2%20Report.pdf)
