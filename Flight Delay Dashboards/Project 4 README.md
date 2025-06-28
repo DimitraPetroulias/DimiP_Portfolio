@@ -95,7 +95,9 @@ This project develops interactive Tableau dashboards tailored to the needs of cu
   - Ensure compliance with Web Content Accessibility Guidelines (WCAG).
 
 ## Dashboard Preview
-Screenshots of the Tableau dashboards can be added to the `/screenshots/` folder for quick reference.
+![Tableau Customer Service Team Dashboard](https://github.com/user-attachments/assets/798218c7-e72e-4591-bcb2-9a6ecedbbf86)
+![Tableau Customer Success Team Dashboard](https://github.com/user-attachments/assets/5ac56582-ab4a-4e06-818b-3407a623cea5)
+
 
 ## Full Report
 For a detailed explanation of the methodology and results, you can read the complete report here:  
