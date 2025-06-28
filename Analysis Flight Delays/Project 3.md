@@ -89,3 +89,6 @@ This project analyses historical flight delay data to uncover delay patterns by 
   - Encourage passengers to fly earlier in the day and avoid peak travel periods.
   - Prefer airlines with lower historical delays, like SkyWest and Southwest.
 
+## 📄 Full Report
+For a detailed explanation of this project, you can read the complete report here:  
+[Report 3 – Analysis of Flight Delays](https://github.com/DimitraPetroulias/DimiP_UniPortfolio/tree/0ba968670cc8d6bdfbf2e34a72df8043f0088e6f/Analysis%20Flight%20Delays)
