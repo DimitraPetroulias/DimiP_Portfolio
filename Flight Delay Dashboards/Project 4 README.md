@@ -94,12 +94,13 @@ This project develops interactive Tableau dashboards tailored to the needs of cu
   - Implement robust data governance and access controls.
   - Ensure compliance with Web Content Accessibility Guidelines (WCAG).
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 Screenshots of the Tableau dashboards can be added to the `/screenshots/` folder for quick reference.
 
-## 📄 Full Report
+## Full Report
 For a detailed explanation of the methodology and results, you can read the complete report here:  
-**[Project 4 – Tableau Dashboard Development Report (PDF)](add_your_github_pdf_link_here)**
+[Project 4 – Report (PDF)](https://github.com/DimitraPetroulias/DimiP_UniPortfolio/blob/60fc4a131858900a0b477109b2f7114d2907724b/Flight%20Delay%20Dashboards/Project%204%20Report.pdf)
+
 
 ---
 
