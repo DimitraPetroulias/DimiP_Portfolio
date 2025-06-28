@@ -44,3 +44,7 @@ The standard methodology utilised:
 ## Results
 - Provided the top 20 French movies for each genre for Canopy to stream on their service
 - Recommended what genres of French movies Canopy should make
+
+## 📄 Full Report
+For a detailed explanation of this project, you can read the complete report here:  
+[Project 1-1 Report (PDF)](https://github.com/DimitraPetroulias/DimiP_UniPortfolio/blob/0fa62e7c87992bf44f0f8b913efaa7a51c16bdfb/Analysis%20of%20Streaming%20Movie%20Data/Project%201-1%20Report.pdf)
