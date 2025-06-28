@@ -98,6 +98,16 @@ This project develops interactive Tableau dashboards tailored to the needs of cu
 ![Tableau Customer Service Team Dashboard](https://github.com/user-attachments/assets/798218c7-e72e-4591-bcb2-9a6ecedbbf86)
 ![Tableau Customer Success Team Dashboard](https://github.com/user-attachments/assets/5ac56582-ab4a-4e06-818b-3407a623cea5)
 
+## Interactive Dashboards
+
+Explore the interactive Tableau dashboards live:
+
+- [🔗 Customer Service Team Dashboard](https://public.tableau.com/app/profile/dimitra.petroulias/viz/FlightDelayDashboards_17510915447250/Customerserviceteam)  
+  Provides insights to help inform customers about the best times to fly, most reliable airlines, and expected delays.
+
+- [🔗 Customer Success Team Dashboard](https://public.tableau.com/app/profile/dimitra.petroulias/viz/FlightDelayDashboardForFictionalTravelCompany-FlyNow2/CustomerSuccessTeam)  
+  Supports strategic decisions on marketing, pricing, and operations by analysing delay trends and causes.
+
 
 ## Full Report
 For a detailed explanation of the methodology and results, you can read the complete report here:  
